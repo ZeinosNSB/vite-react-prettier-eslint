@@ -90,7 +90,7 @@ Setup for Prettier in `.prettierrc`:
   "semi": false,
   "trailingComma": "none",
   "singleQuote": true,
-  "printWidth": 90,
+  "printWidth": 120,
   "tabWidth": 2,
   "endOfLine": "auto",
   "bracketSpacing": true,
