@@ -32,7 +32,7 @@ Other optional plugins:
 ```
 npm install --save-dev eslint-plugin-jsx-a11y
 ```
-# Setup for ESlint and Prettier
+## Setup for ESlint and Prettier
 
 Setup the ESLint configuration in `.eslintrc.js`:
 
