@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 ## Expanding the ESLint configuration
 
+This configuration is a minimal setup for ESLint and Prettier (I use IDE Webstorm to creat Vite+React+TypeScript project). You can expand it by adding more ESLint plugins and rules to enforce code quality and consistency. Here are some common ESLint plugins that you can add to the configuration:
+
 Install Prettier and the ESLint plugins for Prettier:
 
 ```
